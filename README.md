@@ -10,3 +10,8 @@ sizes, and ways of allocations depending on the simulation regime
 All regimes are collectively described as an hierarchy of templated calsses.
 In this way the DRY principle is obeyed, and the overheads associated 
 with virtual methods are eliminated.
+
+Convolution folder contains the executable code.
+Tests folder demonstrates the usage of Convolution-classes.
+Eigen folder contains the Eigen-library code
+https://eigen.tuxfamily.org/index.php?title=Main_Page
